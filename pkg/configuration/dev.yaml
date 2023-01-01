@@ -1,0 +1,8 @@
+profile: "dev"
+datasource:
+  dbType: "mysql"
+  url: "localhost:3306"
+  userName: "root"
+  password: ""
+server:
+  port: 8080

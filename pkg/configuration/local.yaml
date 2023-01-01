@@ -1,0 +1,10 @@
+profile: "local"
+grpc:
+  authSvcUrl: "localhost:50051"
+datasource:
+  dbType: "mysql"
+  url: "localhost:3306"
+  userName: "root"
+  password: ""
+server:
+  port: ":8080"
